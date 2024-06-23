@@ -5,7 +5,7 @@ This repository contains a simple JavaScript application and instructions on how
 
 ## Folder Structure
 
-project/
+project/n
 │   input.txt
 │   output.txt
 │   index.js
