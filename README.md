@@ -5,12 +5,12 @@ This repository contains a simple JavaScript application and instructions on how
 
 ## Folder Structure
 
-project/n
-│   input.txt
-│   output.txt
-│   index.js
-│   Dockerfile
-│   README.md
+project/<br />
+│   input.txt <br />
+│   output.txt <br />
+│   index.js <br />
+│   Dockerfile <br />
+│   README.md <br />
 
 
 ## Prerequisites
