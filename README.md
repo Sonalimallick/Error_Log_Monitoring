@@ -1,7 +1,7 @@
 
-# JavaScript Application Dockerization
+# Error Log Monitoring
 
-This repository contains a simple JavaScript application and instructions on how to Dockerize and run the application using Docker.
+This repository contains a simple JavaScript application in an error log monitoring problem and instructions on how to Dockerize and run the application using Docker.
 
 ## Folder Structure
 
